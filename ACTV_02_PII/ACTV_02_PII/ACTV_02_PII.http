@@ -1,0 +1,6 @@
+@ACTV_02_PII_HostAddress = http://localhost:5155
+
+GET {{ACTV_02_PII_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
